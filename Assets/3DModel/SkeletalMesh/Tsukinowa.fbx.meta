@@ -3,7 +3,17 @@ guid: 572971318a7c72c46918a6eab35d3443
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarryPlayerClothMaterial
+    second: {fileID: 2100000, guid: 4b656292963eddd43a85852273e214f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarryPlayerMaterial
+    second: {fileID: 2100000, guid: 1a37c2bb8017e1d4db38ca0fc7786ecd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
